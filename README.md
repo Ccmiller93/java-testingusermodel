@@ -5,7 +5,7 @@ A student that completes this project shows they can:
 * explain what automated testing is and why it is important
 * use JUnit to write, run, and interpret the output of unit tests for services with or without database access
 * use JUnit to write, run, and interpret the output of unit tests for controllers
-* implement Automated Integration Testing for REST APIs using JUnit and RestAssured
+* implement Automated Integration Testing for REST APIs using JUnit and RestAssured 
 
 ## Introduction
 
